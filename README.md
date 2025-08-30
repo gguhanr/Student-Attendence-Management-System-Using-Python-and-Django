@@ -1,4 +1,4 @@
-# 🎓 Django Student Attendance System  
+# 🎓 Student-Attendence-Management-System-Using-Python-and-Django
 
 A **Student Attendance Management System** built using **Python (Django Framework)** for educational purposes.  
 
@@ -167,3 +167,4 @@ subject to the following conditions...
 
 🚀 Developed by **@ritikBanger, @mohitTaimni, and @ronitKhowal**  
 👨‍🎓 For **Poornima Group, Jaipur**  
+
