@@ -165,6 +165,5 @@ subject to the following conditions...
 
 ---
 
-🚀 Developed by **@ritikBanger, @mohitTaimni, and @ronitKhowal**  
-👨‍🎓 For **Poornima Group, Jaipur**  
+🚀 Developed by **@Guhan.S
 
